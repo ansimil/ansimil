@@ -2,7 +2,11 @@
 
 #### [Projects website](https://andrewmiller-projects.netlify.app/)
 
-- I recently completed a bootcamp for Full-stack web development at Ironhack in Berlin, Germany
+I'm a full stack developer with a background in QA and a passion for music and technology.
+
+Check out my projects website above, but if you only have time to see one of my projects take a look at my Modular Monosynth project: [Play me](https://modular-monosynth.netlify.app/)
+
+#### Info
 
 - My stack: MERN (MongoDB, ExpressJS, ReactJS and NodeJS)
 
