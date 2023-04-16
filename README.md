@@ -11,7 +11,7 @@ Check out my projects website above, but if you only have time to see one of my 
 
 #### About me
 
-- My stack: MERN (MongoDB, ExpressJS, ReactJS and NodeJS)
+- My stack: MERN (MongoDB, ExpressJS, ReactJS and NodeJS) + AdonisJS, postgresql, Sass, HandlesbarsJS
 
 - Currently working on: an interactive map showing all pokie-free pubs in Sydney (Australians have a bit of a gambling problem ;) )
 
